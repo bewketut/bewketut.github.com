@@ -1,4 +1,5 @@
-pygments:       true
+markdown: rdiscount
+pygments: true
 lsi:            true
 # url:            http://localhost/blakesmith/_site
 url:            http://bewketut.github.com
