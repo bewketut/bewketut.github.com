@@ -1,43 +1,16 @@
-Develop.GitHub.com
-==================
+# My code website, blog and personal pages
 
-This is the code and data behind <http://develop.github.com>.
+## How it works
 
-All content can be found in the `_posts/` directory.
+This repository is a [Jekyll](http://github.com/mojombo/jekyll) powered blog. The layout is plain HTML/CSS/Javascript with some dynamic content injected with liquid layout templating. When I want to write a post I follow these steps:
 
+1. Create a new markdown file in the _posts directory
+2. Write up the post with YAML header information (title, layout etc.) at the top of the file
+3. Save and push to Github
+4. Github automatically 'compiles' the markdown and other liquid layouts and generates static HTML.
 
-Dependencies, Getting Started
------------------------------
+It's the ultimate way to blog like a hacker! I get to use my favorite editor, keep an entire copy of my content in source control. (This also has the benefit of being able to work offline). And work in a way that focuses on the content.
 
-Install [Jekyll][jk] an rake (both require Ruby):
+## Other content
 
-    gem install jekyll rake
-
-Once you've done that, run `rake` to compile the site:
-
-    rake
-
-This should start a web server at <http://localhost:3000> which is now
-serving your site, updating whenever you make changes.
-
-Contributing
-------------
-
-To contribute to the develop.github site, you can fork the repository,
-push your changes into it and create an Issue:
-<http://github.com/develop/develop.github.com/issues>
-
-If you want to run the site on GitHub pages for testing you can push your
-changes into the 'gh-pages' branch, rather than the 'master' branch of
-the remote repository.
-
-    $ git push origin master:gh-pages
-
-That command will push your master branch to the 'gh-pages' branch of
-your fork.  Then Pages will serve the site for you under:
-
-<http://schacon.github.com/develop.github.com>
-
-(Replace 'schacon' with your username)
-
-[jk]: https://github.com/mojombo/jekyll
+I also have my [résumé](http://blakesmith.me/resume.html), [Twitter](http://twitter.com/blakesmith), and some other odds and ends. [Give it a look!](http://blakesmith.me)
