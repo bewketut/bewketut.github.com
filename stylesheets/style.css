@@ -27,7 +27,16 @@ img {
 	border: 0;
 }
 
-#download-link a {
+#download-links {
+  position: absolute;
+  top: 160px;
+  right: 0;
+  padding: 5px;
+  padding-top: 15px;
+  background-color: #ffd;
+}
+
+#download-links a {
 	display: block;
 }
 
