@@ -11,6 +11,4 @@ This repository is a [Jekyll](http://github.com/mojombo/jekyll) powered blog. Th
 
 It's the ultimate way to blog like a hacker! I get to use my favorite editor, keep an entire copy of my content in source control. (This also has the benefit of being able to work offline). And work in a way that focuses on the content.
 
-## Other content
 
-I also have my [résumé](http://blakesmith.me/resume.html), [Twitter](http://twitter.com/blakesmith), and some other odds and ends. [Give it a look!](http://blakesmith.me)
