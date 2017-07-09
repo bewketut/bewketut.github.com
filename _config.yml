@@ -1,7 +1,0 @@
-markdown: rdiscount
-pygments: true
-lsi:            true
-# url:            http://localhost/blakesmith/_site
-url:            http://bewketut.github.com
-title:          $ grep code bewketu      
-paginate: 5
